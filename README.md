@@ -4,6 +4,12 @@
 
 - 주제 : Redux & Redux Toolkit을 사용하여 OZ카페 코드 리팩토링하기
 
+### 과제 진행 방식
+
+> main 브랜치를 기반으로 한 redux, redux-toolkit 브랜치를 생성해 각각의 브랜치에서 redux, redux-toolkit 실습 진행
+
+<br />
+
 ### 학습 목표
 
 1. 이전 과제에서 작성한 코드를 Redux & Redux Toolkit를 사용하여 개선할 수 있다.
