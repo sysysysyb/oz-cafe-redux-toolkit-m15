@@ -1,13 +1,13 @@
 import { configureStore, createSlice } from "@reduxjs/toolkit";
 import data from "../assets/data";
 
-const menuSlice = createSlice({
+export const menuSlice = createSlice({
   name: "menu",
   initialState: data.menu,
   reducers: {},
 });
 
-const cartSlice = createSlice({
+export const cartSlice = createSlice({
   name: "cart",
   initialState: [],
   reducers: {
